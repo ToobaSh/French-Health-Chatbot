@@ -1,0 +1,72 @@
+[
+  {
+    "filename": "Allergies.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une allergie ?\nRéaction excessive du système immunitaire à une substance normalement inoffensive.\nSymptômes\n- Éternuements\n- Démangeaisons\n- Urticaire\nTraitement\n- Antihistaminiques\n- Éviction de l’allergène"
+  },
+  {
+    "filename": "Angine.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une angine ?\nInfection de la gorge pouvant être virale ou bactérienne.\nSymptômes\n- Gorge rouge et douloureuse\n- Fièvre\n- Difficulté à avaler\nTraitement\n- Antalgiques\n- Antibiotiques si angine bactérienne (test streptococcique)\n- Hydratation et repos\nQuand consulter ?\n- Fièvre élevée\n- Plaques blanches visibles"
+  },
+  {
+    "filename": "Asthme.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que l’asthme ?\nMaladie chronique des voies respiratoires provoquant des crises de gêne respiratoire.\nSymptômes\n- Sifflements\n- Essoufflement\n- Toux\nTraitement\n- Inhalateurs bronchodilatateurs\n- Traitement anti-inflammatoire de fond"
+  },
+  {
+    "filename": "Bronchiolite.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que la bronchiolite ?\nInfection virale touchant les bronchioles des nourrissons.\nSymptômes\n- Toux\n- Gêne respiratoire\n- Sifflements\nTraitement\n- Lavages de nez fréquents\n- Hydratation\n- Surveillance respiratoire\nQuand consulter ?\n- Respiration difficile\n- Nourrisson de moins de 6 semaines"
+  },
+  {
+    "filename": "Cholesterol.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que le cholestérol ?\nLipide essentiel à l’organisme mais qui, en excès, augmente le risque cardiovasculaire.\nTraitement\n- Régime pauvre en graisses saturées\n- Activité physique\n- Médicaments hypolipémiants (selon avis médical)"
+  },
+  {
+    "filename": "COVID19.pdf",
+    "chunk_index": 0,
+    "text": "COVID-19\nMaladie infectieuse due au coronavirus SARS-CoV-2.\nSymptômes\n- Fièvre\n- Toux\n- Fatigue\nTraitement\n- Isolement\n- Hydratation\n- Paracétamol pour la fièvre"
+  },
+  {
+    "filename": "Diabete.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que le diabète ?\nMaladie entraînant un excès de sucre dans le sang.\nTypes\n- Type 1\n- Type 2\nSymptômes\n- Soif excessive\n- Urines fréquentes\n- Fatigue\nTraitement\n- Insuline (type 1)\n- Médicaments antidiabétiques (type 2)\n- Activité physique régulière\n- Alimentation adaptée"
+  },
+  {
+    "filename": "Fievre_enfant.pdf",
+    "chunk_index": 0,
+    "text": "Fièvre chez l’enfant\nLa fièvre est une température supérieure à 38°C.\nQue faire ?\n- Proposer à boire souvent\n- Ne pas trop couvrir l’enfant\n- Donner du paracétamol si nécessaire\nTraitement\n- Paracétamol (selon le poids)\n- Hydratation essentielle\n- Aération de la chambre\nQuand consulter ?\n- Moins de 3 mois\n- Fièvre > 40°C\n- Altération de l’état général"
+  },
+  {
+    "filename": "Gastro_enterite.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une gastro-entérite ?\nInfection touchant l’estomac et les intestins.\nSymptômes\n- Vomissements\n- Diarrhée\n- Fièvre\n- Risque de déshydratation\nTraitement\n- Solutions de réhydratation orale\n- Petites quantités de liquide fréquentes\n- Reprise alimentaire progressive (banane, riz, compote)\nQuand consulter ?\n- Signes de déshydratation\n- Fièvre persistante"
+  },
+  {
+    "filename": "Grippe.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que la grippe ?\nInfection virale contagieuse touchant le système respiratoire.\nSymptômes\n- Forte fièvre\n- Courbatures\n- Fatigue intense\nTraitement\n- Antalgiques\n- Hydratation\n- Repos\nPrévention\n- Vaccination"
+  },
+  {
+    "filename": "Hypertension.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce que l’hypertension ?\nPression artérielle trop élevée de manière durable.\nSymptômes\nSouvent aucun symptôme, parfois maux de tête ou fatigue.\nTraitement\n- Réduction du sel\n- Médicaments antihypertenseurs\n- Activité physique quotidienne\nPrévention\n- Alimentation équilibrée\n- Perte de poids si nécessaire"
+  },
+  {
+    "filename": "Migraine.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une migraine ?\nCéphalée récurrente souvent accompagnée de nausées et de sensibilité à la lumière.\nDéclencheurs fréquents\n- Fatigue\n- Stress\n- Certains aliments\nTraitement\n- Antalgiques\n- Triptans (selon prescription)\n- Repos dans le calme et l’obscurité"
+  },
+  {
+    "filename": "Otite.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une otite ?\nUne otite est une inflammation ou infection de l’oreille. Elle peut toucher l’oreille externe ou l’oreille\nmoyenne.\nSymptômes\n- Douleur à l’oreille\n- Fièvre\n- Baisse de l’audition\n- Écoulement éventuel\nTraitement\n- Antalgique (paracétamol)\n- Antibiotiques uniquement si nécessaire (selon avis médical)\n- Gouttes auriculaires en cas d’otite externe\nQuand consulter ?\n- Douleur intense\n- Fièvre persistante\n- Symptômes > 48 heures"
+  },
+  {
+    "filename": "Rhinopharyngite.pdf",
+    "chunk_index": 0,
+    "text": "Qu’est-ce qu’une rhinopharyngite ?\nC’est une infection virale fréquente touchant le nez et la gorge.\nSymptômes\n- Nez bouché ou qui coule\n- Mal de gorge\n- Fièvre légère\nTraitement\n- Lavages de nez au sérum physiologique\n- Hydratation\n- Paracétamol en cas de fièvre ou douleur\nQuand consulter ?\n- Fièvre élevée persistante\n- Difficulté à respirer"
+  }
+]
