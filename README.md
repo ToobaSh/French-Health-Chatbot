@@ -21,9 +21,9 @@ It analyzes local PDF brochures and generates clear, structured answers for pati
 
 ## How the RAG Pipeline Works
 
--User asks a question
--The system retrieves the most relevant PDF chunks
--Text is cleaned (removal of symbols, menus, references)
--Relevant sentences are summarized
--A single, readable answer is generated
--Sources are displayed in the Streamlit interface
+- User asks a question
+- The system retrieves the most relevant PDF chunks
+- Text is cleaned (removal of symbols, menus, references)
+- Relevant sentences are summarized
+- A single, readable answer is generated
+- Sources are displayed in the Streamlit interface
