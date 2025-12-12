@@ -1,0 +1,9 @@
+streamlit
+sentence-transformers
+transformers
+sentencepiece
+numpy
+pandas
+scikit-learn
+PyPDF2
+pdfplumber
